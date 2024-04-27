@@ -31,9 +31,51 @@
 
 ### Projects:
 - **Capstone Project:** [Healthcare - Predicting Insurance Costs](#) - The goal of this project is to build a predictive model that estimates the insurance cost for an individual based on their health and lifestyle parameters. The model will help insurance companies optimize their insurance costs and reduce risks by providing accurate cost estimates.
-- **Visualizing Insurance Claims using Tableau:** Created interactive dashboards to provide high-level insights to the CEO of an Insurance company to drive the company's policymaking.
-- **Time Series Forecasting Project:** Forecasted the sales of Wines for 2 specific companies using techniques like exponential smoothening, moving average forecasts, EDA, ARIMA, and SARIMA.
-- **DSBA SQL- New Wheels Case Study:** Answered business questions with the help of MYSQL and created visualizations for the Quarterly Business Report for the Leadership with recommendations and insights.
+  
+- **Visualizing Insurance Claims using Tableau**
+  - **Course:** Data Visualization using TABLEAU
+  - **Description:** This project used Tableau's data visualization tools to create interactive dashboards for an Insurance company's CEO, providing high-level insights for policymaking.
+  - **Skills & Tools Covered:** Business Intelligence, Tableau, Dashboard Designing
+
+- **Time Series Forecasting Project**
+  - **Course:** Time Series Forecasting
+  - **Description:** Forecasted the sales of Wines for 2 specific companies using techniques like exponential smoothening, moving average forecasts, EDA, ARIMA, and SARIMA.
+  - **Skills & Tools Covered:** Forecasting, EDA, ARIMA, SARIMA
+
+- **DSBA SQL- New Wheels Case Study**
+  - **Course:** SQL
+  - **Description:** Answered business questions and created visualizations for the Quarterly Business Report for the Leadership with recommendations and insights.
+  - **Skills & Tools Covered:** SQL, Data Visualization
+
+- **Election Exit Poll Prediction and U.S.A Presidential Speech Analysis using Machine Learning**
+  - **Course:** Machine Learning
+  - **Description:** Predicted voting behavior and analyzed U.S.A. Presidential speeches using machine learning techniques.
+  - **Skills & Tools Covered:** Text Mining Analytics, Machine Learning Algorithms
+
+- **Gems & Holiday Package Prediction**
+  - **Course:** Predictive Modeling
+  - **Description:** Predicted gem prices and customer purchase of holiday packages using linear regression, logistic regression, and linear discriminant analysis.
+  - **Skills & Tools Covered:** Linear Regression, Logistic Regression, Linear discriminant Analysis
+
+- **Segmentation using Clustering and PCA**
+  - **Course:** Data Mining
+  - **Description:** Segmented customer data using clustering and PCA to optimize marketing strategies.
+  - **Skills & Tools Covered:** EDA, Clustering, PCA
+
+- **Advance Statistics Graded Project DSBA New Structure**
+  - **Course:** Advanced Statistics
+  - **Description:** Solved problems on Probability, Probability Distribution, Hypothesis Testing, and ANOVA.
+  - **Skills & Tools Covered:** Probability, Hypothesis Testing, ANOVA
+
+- **Analyse and Explore Data and reflect the insights - SMDM Project**
+  - **Course:** Statistical Methods for Decision Making
+  - **Description:** Analyzed data for Austo Motor Company's marketing campaign and framed an analytics problem on Go Digit Dataset.
+  - **Skills & Tools Covered:** Python, Descriptive Statistics, EDA
+
+- **E-Commerce Revenue Management**
+  - **Course:** Python for Data Science
+  - **Description:** Analyzed E-Commerce transaction data to identify sales trends and revenue generation.
+  - **Skills & Tools Covered:** Python, numpy, pandas, visualization
 
 ### Skills & Tools:
 - Python: NumPy, Pandas, SciPy, scikit-learn, Statsmodels
