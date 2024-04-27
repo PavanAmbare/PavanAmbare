@@ -35,7 +35,16 @@
 - **Customer Personality Analysis**
   - **Description:** Conducted detailed analysis of a company’s ideal customers, segmenting customers into distinct clusters based on various attributes such as demographic information, purchasing behavior, and response to marketing campaigns.
   - **Skills & Tools Covered:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Google Colab
+ 
+- **Zomato Restaurants Analysis**
+  - **Description:** This project involves analyzing a dataset of restaurants registered on Zomato in Bengaluru City to gain insights into the restaurant industry in the area. The goal is to explore various aspects of the dataset, such as ratings, types of cuisine, cost for two people, and more, to understand trends and patterns in the restaurant business. 
+  - **Skills & Tools Covered:** Python (NumPy, Pandas),Data Visualization (Matplotlib, Seaborn, Tableau),EDA techniques
   
+- **Visualizing Insurance Claims using Tableau**
+  - **Course:** Data Visualization using TABLEAU
+  - **Description:** This project used Tableau's data visualization tools to create interactive dashboards for an Insurance company's CEO, providing high-level insights for policymaking.
+  - **Skills & Tools Covered:** Business Intelligence, Tableau, Dashboard Designing
+
 - **Visualizing Insurance Claims using Tableau**
   - **Course:** Data Visualization using TABLEAU
   - **Description:** This project used Tableau's data visualization tools to create interactive dashboards for an Insurance company's CEO, providing high-level insights for policymaking.
