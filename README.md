@@ -3,6 +3,7 @@
 - 🔭 I recently completed the Post Graduate Program in Data Science and Business Analytics from Great Lakes Institute of Management.
 - 🌱 I’m currently learning about Web and Social Media Analytics, Generative AI, and other advanced topics.
 - 👯 I’m looking to collaborate on projects related to data science, machine learning, and analytics.
+- 💼 Business Analyst Experience:Over 1.5 years of proven expertise as a Business Analyst, adept at data collection, cleaning, and analysis for informed decision-making. Proficient in Excel, Python, Tableau, Power BI, and advanced EDA techniques, dedicated to delivering actionable insights. Experienced in contributing to the data lifecycle, including collection, cleaning, and analysis, to inform strategic business decisions. Generated and presented routine reports and visualizations to cross-functional teams, furnishing actionable insights and strategic recommendations.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pavan-ambare-542b961a3/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy exploring new hiking trails in my free time!
@@ -45,9 +46,9 @@
   - **Description:** This project used Tableau's data visualization tools to create interactive dashboards for an Insurance company's CEO, providing high-level insights for policymaking.
   - **Skills & Tools Covered:** Business Intelligence, Tableau, Dashboard Designing
 
-- **Visualizing Insurance Claims using Tableau**
+- **Visualizing-house-price-in-boston-using-Tableau**
   - **Course:** Data Visualization using TABLEAU
-  - **Description:** This project used Tableau's data visualization tools to create interactive dashboards for an Insurance company's CEO, providing high-level insights for policymaking.
+  - **Description:** This project involves analyzing the House Pricing dataset provided by a Real Estate company in Boston. As a Lead Data Analyst, the goal is to explore the data, create various plots, and interpret useful insights and findings. The ultimate objective is to create a storyboard for presentation to the Senior Management, aiming to assist them in making decisive actions regarding the current House Recommendation System.
   - **Skills & Tools Covered:** Business Intelligence, Tableau, Dashboard Designing
 
 - **Time Series Forecasting Project**
@@ -109,3 +110,5 @@
 ### Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/pavan-ambare-542b961a3)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PavanAmbare)
+- [Kaggle](https://www.kaggle.com/pavanambare)
+  - [Academic Poertfolio](https://eportfolio.mygreatlearning.com/pavan-ambare)
