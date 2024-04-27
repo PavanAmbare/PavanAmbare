@@ -31,6 +31,10 @@
 
 ### Projects:
 - **Capstone Project:** [Healthcare - Predicting Insurance Costs](#) - The goal of this project is to build a predictive model that estimates the insurance cost for an individual based on their health and lifestyle parameters. The model will help insurance companies optimize their insurance costs and reduce risks by providing accurate cost estimates.
+
+  - **Customer Personality Analysis**
+  - **Description:** Conducted detailed analysis of a company’s ideal customers, segmenting customers into distinct clusters based on various attributes such as demographic information, purchasing behavior, and response to marketing campaigns.
+  - **Skills & Tools Covered:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Google Colab
   
 - **Visualizing Insurance Claims using Tableau**
   - **Course:** Data Visualization using TABLEAU
