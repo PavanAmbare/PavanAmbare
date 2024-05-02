@@ -1,6 +1,6 @@
 ### Hi there, I'm Pavan Ambare! 👋
 
-- 🔭 I recently completed the Post Graduate Program in Data Science and Business Analytics from Great Lakes Institute of Management.
+- 🔭 I recently completed the Post Graduate Program in Data Science and Business Analytics from Great Lakes Institute of Management and University of Texas at Austin.
 - 🌱 I’m currently learning about Web and Social Media Analytics, Generative AI, and other advanced topics.
 - 👯 I’m looking to collaborate on projects related to data science, machine learning, and analytics.
 - 💼 Business Analyst Experience:Over 1.5 years of proven expertise as a Business Analyst, adept at data collection, cleaning, and analysis for informed decision-making. Proficient in Excel, Python, Tableau, Power BI, and advanced EDA techniques, dedicated to delivering actionable insights. Experienced in contributing to the data lifecycle, including collection, cleaning, and analysis, to inform strategic business decisions. Generated and presented routine reports and visualizations to cross-functional teams, furnishing actionable insights and strategic recommendations.
@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I enjoy exploring new hiking trails in my free time!
 
 ### Education:
-- Post Graduate Program in Data Science and Business Analytics, Great Lakes Institute of Management, May 2023 - May 2024
+- Post Graduate Program in Data Science and Business Analytics, Great Lakes Institute of Management and University of Texas at Austin, May 2023 - May 2024
 
 ### Courses Completed:
 - Data Visualization using Tableau
@@ -29,6 +29,7 @@
 - Finance and Risk Analytics
 - Supply Chain and Logistics Analytics
 - Optimization Techniques
+- Introduction to R
 
 ### Projects:
 - **Capstone Project:** [Healthcare - Predicting Insurance Costs](#) - The goal of this project is to build a predictive model that estimates the insurance cost for an individual based on their health and lifestyle parameters. The model will help insurance companies optimize their insurance costs and reduce risks by providing accurate cost estimates.
@@ -111,4 +112,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/pavan-ambare-542b961a3)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PavanAmbare)
 - [Kaggle](https://www.kaggle.com/pavanambare)
-  - [Academic Poertfolio](https://eportfolio.mygreatlearning.com/pavan-ambare)
+- [Academic Portfolio](https://eportfolio.mygreatlearning.com/pavan-ambare)
