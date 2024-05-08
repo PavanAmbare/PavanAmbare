@@ -33,6 +33,13 @@
 
 ### Projects:
 - **Capstone Project:** [Healthcare - Predicting Insurance Costs](#) - The goal of this project is to build a predictive model that estimates the insurance cost for an individual based on their health and lifestyle parameters. The model will help insurance companies optimize their insurance costs and reduce risks by providing accurate cost estimates.
+  
+- Developed and deployed regression models with high accuracy, achieving RMSE values below 1200 and R-squared values up to 0.99.
+-Utilized GridSearchCV for hyperparameter tuning, improving model fit by 10%.
+-Conducted bivariate analysis on key features, driving insights for insurance cost optimization.
+-Implemented targeted wellness programs and pricing strategies.
+
+ - **Skills & Tools**: Python (NumPy, Pandas, Matplotlib, Seaborn),K-means Clustering,Data Visualization,Scikit-learn,Model Optimization,Business Impact Analysis
 
 - **Customer Personality Analysis**
   - **Description:** Conducted detailed analysis of a company’s ideal customers, segmenting customers into distinct clusters based on various attributes such as demographic information, purchasing behavior, and response to marketing campaigns.
