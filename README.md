@@ -6,7 +6,7 @@
 - 💼 Business Analyst Experience:Over 1.5 years of proven expertise as a Business Analyst, adept at data collection, cleaning, and analysis for informed decision-making. Proficient in Excel, Python, Tableau, Power BI, and advanced EDA techniques, dedicated to delivering actionable insights. Experienced in contributing to the data lifecycle, including collection, cleaning, and analysis, to inform strategic business decisions. Generated and presented routine reports and visualizations to cross-functional teams, furnishing actionable insights and strategic recommendations.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pavan-ambare-542b961a3/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy exploring new hiking trails in my free time!
+- ⚡ Fun fact: I enjoy exploring new places in my free time!
 
 ### Education:
 - Post Graduate Program in Data Science and Business Analytics, Great Lakes Institute of Management and University of Texas at Austin, May 2023 - May 2024
@@ -32,23 +32,32 @@
 - Introduction to R
 
 ### Projects:
-- **Capstone Project:** [Healthcare - Predicting Insurance Costs](#) - The goal of this project is to build a predictive model that estimates the insurance cost for an individual based on their health and lifestyle parameters. The model will help insurance companies optimize their insurance costs and reduce risks by providing accurate cost estimates.
+### Data analytical Project Experience
+- **Capstone Project:** [Healthcare Insurance Cost Prediction & Analysis](#) - The goal of this project is to build a predictive model that estimates the insurance cost for an individual based on their health and lifestyle parameters. The model will help insurance companies optimize their insurance costs and reduce risks by providing accurate cost estimates.
   
-- Developed and deployed regression models with high accuracy, achieving RMSE values below 1200 and R-squared values up to 0.99.
--Utilized GridSearchCV for hyperparameter tuning, improving model fit by 10%.
--Conducted bivariate analysis on key features, driving insights for insurance cost optimization.
--Implemented targeted wellness programs and pricing strategies.
+- Conducted K-means clustering for customer segmentation in targeted marketing.
+  
+- Employed various regression techniques (parametric and non-parametric) for comprehensive predictive modeling of insurance costs.
 
- - **Skills & Tools**: Python (NumPy, Pandas, Matplotlib, Seaborn),K-means Clustering,Data Visualization,Scikit-learn,Model Optimization,Business Impact Analysis
+- Identified key features impacting insurance costs, conducting bivariate analysis for cost optimization offering insights for business strategy refinement.
+
+- **Skills & Tools**: Python (NumPy, Pandas, Matplotlib, Seaborn),K-means Clustering,Data Visualization,Scikit-learn,Model Optimization,Business Impact Analysis
+
+- **Link** : [Healthcare Insurance Cost Prediction & Analysis](https://github.com/PavanAmbare/Healthcare-Insurance-Cost-Prediction-Analysis.git)
 
 - **Customer Personality Analysis**
   - **Description:** Conducted detailed analysis of a company’s ideal customers, segmenting customers into distinct clusters based on various attributes such as demographic information, purchasing behavior, and response to marketing campaigns.
   - **Skills & Tools Covered:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Google Colab
+  - **Link** : [Customer Personality Analysis](https://github.com/PavanAmbare/Customer_Personality_Analysis.git)
+
  
 - **Zomato Restaurants Analysis**
   - **Description:** This project involves analyzing a dataset of restaurants registered on Zomato in Bengaluru City to gain insights into the restaurant industry in the area. The goal is to explore various aspects of the dataset, such as ratings, types of cuisine, cost for two people, and more, to understand trends and patterns in the restaurant business. 
   - **Skills & Tools Covered:** Python (NumPy, Pandas),Data Visualization (Matplotlib, Seaborn, Tableau),EDA techniques
-  
+  - **Link** : [Zomato Restaurants Analysis](https://github.com/PavanAmbare/Zomato-Restaurants-Analysis.git)
+
+
+  ### Data analytical GL-PGP-DSBA academic  Project Experience
 - **Visualizing Insurance Claims using Tableau**
   - **Course:** Data Visualization using TABLEAU
   - **Description:** This project used Tableau's data visualization tools to create interactive dashboards for an Insurance company's CEO, providing high-level insights for policymaking.
