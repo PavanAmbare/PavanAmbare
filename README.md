@@ -3,7 +3,7 @@
 - 🔭 I recently completed the Post Graduate Program in Data Science and Business Analytics from Great Lakes Institute of Management and University of Texas at Austin.
 - 🌱 I’m currently learning about Web and Social Media Analytics, Generative AI, and other advanced topics.
 - 👯 I’m looking to collaborate on projects related to data science, machine learning, and analytics.
-- 💼 Business Analyst Experience:Over 1.5 years of proven expertise as a Business Analyst, adept at data collection, cleaning, and analysis for informed decision-making. Proficient in Excel, Python, Tableau, Power BI, and advanced EDA techniques, dedicated to delivering actionable insights. Experienced in contributing to the data lifecycle, including collection, cleaning, and analysis, to inform strategic business decisions. Generated and presented routine reports and visualizations to cross-functional teams, furnishing actionable insights and strategic recommendations.
+- 💼 Business Analyst Experience: Business Analyst with over 1.5 years of experience in analyzing and deriving insights from data using Python, SQL, Excel and creating dashboards with Tableau and Power BI. Proficient in data integration, processing, exploration, analytics, reporting, and visualization. Adept at delivering actionable insights and recommendations to drive strategic business decisions.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pavan-ambare-542b961a3/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy exploring new places in my free time!
