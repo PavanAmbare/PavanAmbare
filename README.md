@@ -3,7 +3,7 @@
 - 🔭 I recently completed the Post Graduate Program in Data Science and Business Analytics from Great Lakes Institute of Management and University of Texas at Austin.
 - 🌱 I’m currently learning about Web and Social Media Analytics, Generative AI, and other advanced topics.
 - 👯 I’m looking to collaborate on projects related to data science, machine learning, and analytics.
-- 💼 Business Analyst Experience: Business Analyst with over 1.5 years of experience in analyzing and deriving insights from data using Python, SQL, Excel and creating dashboards with Tableau and Power BI. Proficient in data integration, processing, exploration, analytics, reporting, and visualization. Adept at delivering actionable insights and recommendations to drive strategic business decisions.
+- 💼 Business Analyst Experience: Business Analyst with 1.6 years of experience in SQL, Excel, and Python for data analysis, automation, and reporting. Skilled in business process analysis, requirements gathering, and process improvement. Proven ability to deliver actionable insights and strategic recommendations to drive business decisions. Proficient in data integration, processing, exploration, analytics, reporting, and visualization. Adept at delivering actionable insights and recommendations to drive strategic business decisions.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pavan-ambare-542b961a3/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy exploring new places in my free time!
@@ -12,21 +12,24 @@
 - Post Graduate Program in Data Science and Business Analytics, Great Lakes Institute of Management and University of Texas at Austin, May 2023 - May 2024
 
 ### Courses Completed:
-- Data Visualization using Tableau
-- Time Series Forecasting
-- SQL
-- Machine Learning
-- Predictive Modeling
-- Data Mining
-- Advanced Statistics
+- Python for Data Science
 - Statistical Methods for Decision Making
-
+- Advanced Statistics
+- Data Mining
+- Predictive Modeling
+- Machine Learning
+- SQL
+- Time Series Forecasting
+- Data Visualization using Tableau
+- Marketing & Retail Analytics
+- Finance and Risk Analytics
+- Capstone Project
+  
 ### Optional Courses Completed:
 - Web and Social Media Analytics
 - Generative AI
 - Introduction to Model Deployment
 - Marketing and CRM
-- Finance and Risk Analytics
 - Supply Chain and Logistics Analytics
 - Optimization Techniques
 - Introduction to R
@@ -41,7 +44,8 @@
 
 - Identified key features impacting insurance costs, conducting bivariate analysis for cost optimization offering insights for business strategy refinement.
 
-- **Skills & Tools**: Python (NumPy, Pandas, Matplotlib, Seaborn),K-means Clustering,Data Visualization,Scikit-learn,Model Optimization,Business Impact Analysis
+- **Skills & Tools**: Python (NumPy, Pandas, Matplotlib, Seaborn),K-means Clustering,Data Visualization,Scikit-learn,Model Optimization,Business Impact Analysis,Recursive Feature 
+                      Elimination (RFE) for Feature Selection
 
 - **Link** : [Healthcare Insurance Cost Prediction & Analysis](https://github.com/PavanAmbare/Healthcare-Insurance-Cost-Prediction-Analysis.git)
 
