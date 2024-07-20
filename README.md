@@ -128,8 +128,13 @@
 - Natural Language Processing: Count-Vectorizer, TF-IDF, Data Scrapping, Doc-Similarity-Clustering, Word2Vec
 - Reporting: MS Word, MS Excel, MS PowerPoint
 
-### Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/pavan-ambare-542b961a3)
+### Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-ambare-542b961a3/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PavanAmbare)
-- [Kaggle](https://www.kaggle.com/pavanambare)
-- [Academic Portfolio](https://eportfolio.mygreatlearning.com/pavan-ambare)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/pavanambare)
+[![Academic Portfolio](https://img.shields.io/badge/Academic%20Portfolio-000000?style=for-the-badge&logo=gitbook&logoColor=white)](https://eportfolio.mygreatlearning.com/pavan-ambare)
+
+---
+
+**Visitor Count:**  
+![Visitor Count](https://profile-counter.glitch.me/{PavanAmbare}/count.svg)
