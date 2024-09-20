@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I enjoy exploring new places in my free time!
 
 ### Education:
-- Post Graduate Program in Data Science and Business Analytics, Great Lakes Institute of Management and University of Texas at Austin, May 2023 - May 2024
+- Post Graduate Program in Data Science and Business Analytics, Great Lakes Institute of Management and University of Texas at Austin, May 2023 - AUG 2024
 
 ### Courses Completed:
 - Python for Data Science
