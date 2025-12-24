@@ -1,25 +1,54 @@
-### Hi there, I'm Pavan Ambare! 👋
+## Hi, I'm Pavan Ambare 👋
 
-- 🔭 I recently completed the Post Graduate Program in Data Science and Business Analytics from Great Lakes Institute of Management and University of Texas at Austin.
-- 🌱 I’m currently learning about Web and Social Media Analytics, Generative AI, and other advanced topics.
-- 👯 I’m looking to collaborate on projects related to data science, machine learning, and analytics.
+I’m a **Business Planning Analyst at HP** with hands-on experience in **data analytics, automation, and business intelligence**. I work at the intersection of data and business, helping teams make faster and better decisions through analytics.
+
+I recently completed the **Post Graduate Program in Data Science and Business Analytics** from **Great Lakes Institute of Management** in collaboration with **The University of Texas at Austin**, where I gained strong exposure to applied analytics and real-world problem solving.
+
+---
+
 ## 💼 Professional Experience
 
 ### **Business Planning Analyst – HP**  
-*Nov 2024 – Present | Bengaluru, Karnataka, India*  
-- Automated manual reporting processes using **VBA** and **Excel Macros**, reducing turnaround time by **40%**.  
-- Analyzed large datasets using **SQL** and **Python**, improving forecast accuracy by **15%** across key business units.  
-- Built interactive dashboards in **Power BI** and **Tableau**, enabling faster decision-making for leadership and cross-functional teams.  
-- Partnered with sales and finance teams to deliver insights that supported **₹25L+** in cost optimization initiatives.  
+*Nov 2024 – Present | Bengaluru, India*
+
+- Automated manual reporting workflows using **Excel VBA and Macros**, reducing reporting turnaround time by **40%**.  
+- Analyzed large datasets using **SQL and Python** to support demand forecasting and planning, improving forecast accuracy by **15%** across key business units.  
+- Built and maintained **interactive dashboards in Power BI and Tableau**, enabling leadership and cross-functional teams to track KPIs and make data-driven decisions.  
+- Partnered with sales and finance teams to deliver **actionable insights**, supporting **₹25L+ in cost optimization initiatives**.
+
+---
 
 ### **Business Analyst – Unnati**  
-*Dec 2022 – Jun 2024 | Bengaluru, Karnataka, India*  
-- Gathered and translated business requirements from stakeholders, improving project clarity and execution success rate by **30%**.  
-- Performed in-depth data analysis using **SQL**, **Python**, and **Excel**, leading to a **12%** increase in customer retention.  
-- Developed real-time dashboards in **Power BI** and **Tableau**, reducing reporting time by **50%**.  
-- Led Agile projects using **Jira**, achieving **95% on-time delivery** for analytics solutions.  
+*Dec 2022 – Jun 2024 | Bengaluru, India*
 
-Led Agile projects using Jira, achieving 95% on-time delivery for analytics solutions.
+- Gathered and translated business requirements into analytical solutions, improving project clarity and execution success rate by **30%**.  
+- Performed in-depth data analysis using **Python, SQL, and Excel**, contributing to a **12% increase in customer retention**.  
+- Developed real-time dashboards in **Power BI and Tableau**, reducing reporting effort by **50%**.  
+- Delivered analytics solutions on schedule with a strong focus on accuracy, usability, and business impact.
+
+---
+
+## 🔧 Skills & Tools
+
+- **Programming & Analysis:** Python, SQL, Advanced Excel (VBA, Macros)  
+- **Data Visualization & BI:** Power BI, Tableau  
+- **Analytics & ML:** Statistics, Regression, Clustering, Forecasting  
+- **Data Workflows:** Data Cleaning, ETL Pipelines, Automation  
+- **Business Skills:** Business Planning, Stakeholder Collaboration, Data-Driven Decision Making  
+
+---
+
+## 🌱 Currently Exploring
+- Web & Social Media Analytics  
+- Generative AI and modern analytics use cases  
+
+---
+
+## 🤝 Open to Collaboration
+I’m always interested in collaborating on **data analytics, machine learning, automation, and BI projects** that solve real business problems.
+
+Feel free to connect or explore my repositories!
+
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pavan-ambare-542b961a3/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy exploring new places in my free time!
